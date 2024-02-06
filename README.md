@@ -2,7 +2,7 @@
 
 🔭 I'm currently working on becoming a qualified programmer
 
-🌱 I'm currently learning C and Java and a little JS
+🌱 I'm currently learning C and Java and a little JS and Python
 
 📫 How to reach me:chen6019@outlook.com and mc_chen6019@qq.com
 <!--
