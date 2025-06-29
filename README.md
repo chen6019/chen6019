@@ -1,6 +1,8 @@
-## <img src="https://www.146019.xyz/res/mobile_bright_back/mobile_bright_back.png.jpg" alt="贴贴！喵~" style="width:15%; height:auto;"> <img src="https://www.146019.xyz/res/loading/Loading1.gif" alt="辟邪跑，喵~" style="width:20%; height:auto;"> <img src="https://www.146019.xyz/res/loading/Loading.gif" alt="天禄害怕，喵~" style="width:20%; height:auto;"> <img src="https://www.146019.xyz/res/loading/Loading3.gif" alt="咬尾巴，喵~" style="width:35%; height:auto;">
+## <img src="mobile_bright_back.png.jpg" alt="贴贴！喵~" style="width:15%; height:auto;"> <img src="Loading1.gif" alt="辟邪跑，喵~" style="width:20%; height:auto;"> <img src="Loading.gif" alt="天禄害怕，喵~" style="width:20%; height:auto;"> <img src="Loading3.gif" alt="咬尾巴，喵~" style="width:35%; height:auto;">
 
 # Hi there 👋 this is chen6019
+
+## Memory Shapes the Soul, and the Soul Affects Memory
 
 ## ![](https://github-readme-stats.vercel.app/api?username=chen6019&show_icons=true&hide_border=False&theme=ambient_gradient&include_all_commits=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chen6019&langs_count=10&layout=compact&exclude_repo=Cemiuiler,action-tmate,Aquarius223-s-sdm845-kernel)
 
@@ -11,10 +13,10 @@
 # 📱 Devices in Use
 
 ## ![Xiaomi 13](https://img.shields.io/badge/Xiaomi%2013-OS2.2%20Unlock%20BL%20-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff) ![Xiaomi Pad 6 Pro](https://img.shields.io/badge/Xiaomi%20Pad%206%20Pro-OS2.2%20Unlock%20BL-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff) ![X86 mini PC](https://img.shields.io/badge/X86%20mini%20PC-iStoreOS%20(Run%20PVE%20on%20This)-835BFF?style=flat-square&logo=openwrt&logoColor=ffffff) ![HINLINK OPC-H68K Board (SP)](https://img.shields.io/badge/HINLINK%20OPC%20H68K%20Board%20(SP)-iStoreOS-835BFF?style=flat-square&logo=openwrt&logoColor=ffffff)
-<!-- 
+
 ## 🔗 Services
 
-## <a href=""><img src="https://img.shields.io/badge/Openlist-暂不公开(not public)~喵~~!-70C6BE?logo=Openlist" title="Openlist" /></a> -->
+## <a href="https://www.146019.xyz"><img src="https://img.shields.io/badge/喵~~!-3EA8FF?logo=macys" title="喵~" /></a>
 
 ## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> How to reach me: ...
 
