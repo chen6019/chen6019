@@ -1,4 +1,4 @@
-## <img src="mobile_bright_back.png.jpg" alt="贴贴！喵~" style="width:15%; height:auto;"> <img src="Loading1.gif" alt="辟邪跑，喵~" style="width:20%; height:auto;"> <img src="Loading.gif" alt="天禄害怕，喵~" style="width:20%; height:auto;"> <img src="Loading3.gif" alt="咬尾巴，喵~" style="width:35%; height:auto;">
+## <img src="mobile_bright_back.png.jpg" alt="贴贴！喵~" style="width:15%; height:auto;"> <img src="Loading1.gif" alt="辟邪跑，喵~" style="width:20%; height:auto;"> <img src="Loading.gif" alt="天禄害怕，嗷呜~" style="width:20%; height:auto;"> <img src="Loading3.gif" alt="咬尾巴，嗷~" style="width:35%; height:auto;">
 
 # Hi there 👋 this is chen6019
 
