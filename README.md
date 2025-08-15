@@ -2,7 +2,7 @@
 
 # Hi there 👋 this is chen6019
 
-A worker who takes two (48 hours) off (24 hours )
+1 day of work (24 hours) 2 days of rest (48 hours )
 
 一个上一（24小时）休二（48小时）的牛马打工人
 
