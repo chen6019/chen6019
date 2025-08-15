@@ -2,6 +2,9 @@
 
 # Hi there 👋 this is chen6019
 
+A worker who takes two (48 hours) off (24 hours )
+一个上一（24小时）休二（48小时）的牛马打工人
+
 ## "Memory Shapes the Soul, and the Soul Affects Memory"
 ## "记忆塑造灵魂，灵魂影响记忆"
 
